@@ -1,0 +1,39 @@
+body{
+    background-color: #4B2D73; 
+    font-family     : "poiret One", Georgia, 'Times New Roman'; 
+    color           : #E2D8EF; 
+    padding         : 0% 5%;     
+}
+
+#header{
+    text-align: center; 
+    font-size : 200%; 
+}
+
+.body{
+    line-height : 20px; 
+    font-style  : italic; 
+    font-weight : bold; 
+    font-size   : 100%; 
+    color       : #E2D8EF; 
+    font-family : "poiret One", Georgia, 'Times New Roman', Times, serif; 
+}
+
+li, a{
+    text-decoration : none; 
+    display         : inline; 
+    margin-left     : 10%;
+    font-size       : 120%;
+    color           : #E2D8EF;   
+}
+
+ul{
+    list-style-type : none; 
+}
+
+nav {
+    border  : 3px solid #21014A; 
+    color   : #E2D8EF; 
+    /**      top right bottom left */
+    padding : 0% 10% 0% 10%; 
+}
